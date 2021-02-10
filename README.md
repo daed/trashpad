@@ -6,7 +6,7 @@ A 17 key handwired macropad almost entirely from upcycled parts.
 
 Microcontroller is Teensy LC.
 
-Case is made from the numpad of the K70. Corsair, in their infinite wisdom, made the numpad easily detachable with the simple application of Dremel and force. Underside is taken from the plastic from the K70 as well.
+Case is made from the numpad of a dead Corsair K70 mechanical keyboard. Corsair, in their infinite wisdom, made the numpad easily detachable with the simple application of Dremel and force. Underside is taken from the plastic from the K70 as well.
 
 All keycaps were the K70 ones, sanded and handpainted.
 
